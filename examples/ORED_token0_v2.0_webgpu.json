@@ -1,0 +1,59 @@
+{
+  "example": true,
+  "schema_version": "1.0",
+
+  "token_reference": {
+    "contract": "KT1ExampleContractAddress",
+    "token_id": 0
+  },
+
+  "artifact_version": "v2.0_webgpu_2034",
+  "date": "2034-05-22",
+  "institution": "MUSEUM",
+  "conservator": "Dr. Example Name",
+  "notes": "Migrated from WebGL Three.js r128 to WebGPU renderer. Shader rewritten to WGSL. Texture cleaned and color corrected according to artist's guidance.",
+
+  "engine": {
+    "type": "WebGPU",
+    "supported_browsers": [
+      "Chrome 121+",
+      "Edge 121+",
+      "Firefox Nightly"
+    ],
+    "dependencies": {
+      "threejs": "r190-webgpu",
+      "custom_library": "https://example.com/lib.js"
+    }
+  },
+
+  "shaders": {
+    "vertex": "/* WGSL or GLSL code here */",
+    "fragment": "/* WGSL or GLSL code here */"
+  },
+
+  "texture": "ipfs://QmExampleTextureCID123456789",
+
+  "assets": {
+    "model_format": "glTF",
+    "poly_reduction_percentage": 0,
+    "model_notes": "Mesh rescaled. No topological changes."
+  },
+
+  "artist_intent_references": {
+    "intent_cid": "ipfs://QmOriginalArtistIntentCID987654321",
+    "migration_type_used": "engine_rewrite",
+    "violations": []
+  },
+
+  "checksum": {
+    "algorithm": "sha256",
+    "value": "aabbccddeeff00112233445566778899ff00ffaa..."
+  },
+
+  "previous_versions": [
+    "ipfs://QmOldCIDv1",
+    "ipfs://QmOlderCIDv0"
+  ],
+
+  "license": "Example conservation documentation. Artwork © Chiara Passa."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Objekt (RE) — Oriented Debris One – Canonical Artifact",
+  "version": "v1.0_canonical",
+  "description": "Canonical documentation for the first release of the generative sculpture series \"Objekt (RE) — Oriented Debris One\". The live behaviour is defined on-chain by seed, mode and personality parameters.",
+  "artist": "Chiara Passa",
+  "year": 2024,
+  "html_viewer": "https://www.chiarapassa.it/ObjectOrientedDebris.html",
+  "animationUri": "https://www.chiarapassa.it/ObjectOrientedDebris.html?token_id=0",
+  "preview_image": "https://www.chiarapassa.it/OODebris0.jpg",
+  "thumbnail": "https://www.chiarapassa.it/OODebris0-thumb.jpg",
+  "video": "https://www.youtube.com/shorts/nrU4b1iR_uM",
+  "notes": [
+    "Each edition is generated deterministically from the on-chain token_params (seed, mode, personalityA/B/C).",
+    "Artist intent and conservation rules are stored on-chain in the GenerativeConservationFA2 contract.",
+    "This JSON is a canonical reference for the initial release of the work."
+  ]
+}

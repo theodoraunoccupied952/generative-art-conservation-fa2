@@ -1,0 +1,40 @@
+{
+  "name": "Objekt (RE) — Oriented Debris One #3",
+  "symbol": "ORED",
+  "description": "Generative sculpture. Each edition is unique and deterministically generated from on-chain parameters. Press R to explore modes (viewer may restrict actions per artist intent). © Chiara Passa",
+  "language": "en",
+  "creators": ["tz...Your Wallet"],
+  "rights": "© Chiara Passa",
+
+  "artifactUri": "https://www.chiarapassa.it/OODebris3.jpg",
+  "displayUri": "https://www.chiarapassa.it/OODebris3.jpg",
+  "thumbnailUri": "https://www.chiarapassa.it/OODebris3-thumb.jpg",
+
+  "formats": [
+    {
+      "uri": "https://www.chiarapassa.it/ObjectOrientedDebris.html?token_id=3",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "https://www.youtube.com/shorts/nrU4b1iR_uM",
+      "mimeType": "video/mp4"
+    },
+    {
+      "uri": "https://www.chiarapassa.it/OODebris3.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "uri": "https://www.chiarapassa.it/OODebris3-thumb.jpg",
+      "mimeType": "image/jpeg"
+    }
+  ],
+
+  "animationUri": "https://www.chiarapassa.it/ObjectOrientedDebris.html?token_id=3",
+
+  "attributes": [
+    { "name": "Edition", "value": "3" },
+    { "name": "Work", "value": "Oriented Debris One" },
+    { "name": "Interactivity", "value": "Press R" },
+    { "name": "Conservation", "value": "See on-chain artifact_versions" }
+  ]
+}

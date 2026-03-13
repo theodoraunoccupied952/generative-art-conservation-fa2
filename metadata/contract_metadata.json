@@ -1,0 +1,16 @@
+{
+  "name": "Objekt (RE) Oriented Debris One",
+  "description": "FA2 NFT contract for generative sculpture editions with on-chain seed/mode/personality and conservation/artifact CID history.",
+  "version": "1.0.0",
+  "license": {
+    "name": "All Rights Reserved",
+    "details": "© Chiara Passa"
+  },
+  "authors": ["Chiara Passa"],
+  "interfaces": ["TZIP-012", "TZIP-016"],
+  "homepage": "https://www.chiarapassa.it",
+  "icon": "https://www.chiarapassa.it/OODebris1-thumb.jpg",
+  "source": {
+    "tools": ["SmartPy"]
+  }
+}
