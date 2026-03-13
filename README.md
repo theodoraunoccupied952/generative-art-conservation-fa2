@@ -8,7 +8,7 @@ December 2025
 
 ## Example artwork
 
-![Example artwork](./assets/OODebris0.jpg)
+[![Example artwork](assets/OODebris0.jpg)](https://www.youtube.com/shorts/nrU4b1iR_uM)
 
 ## Interaction demo
 
